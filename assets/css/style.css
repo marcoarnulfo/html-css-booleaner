@@ -46,48 +46,38 @@ ul{
     padding: 15px;
 }
 
-.main_container{
-    background-color: rgba(18, 182, 247, 0.884);
+table{
+    margin-top: 10px;
     width: 100%;
+    border-collapse: collapse;
 }
 
-.first_title{
-    width: 20%;
-    display: inline-block;
-    font-weight: bold;
-    color: white;
+thead>tr{
+    background-color: rgba(0, 68, 255, 0.671);
+}
+
+.light{
+    background-color: lightblue;
 }
 
 .title{
     width: 20%;
-    display: inline-block;
-    position: relative;
-    bottom: 20px;
+    text-align: left;
+    color: white;
 }
 
-.container_withe{
-    width: 100%;
-    height: 60px;
-}
-
-.container{
-    background-color: lightblue;
-    width: 100%;
-    height: 60px;
-}
-
-
-.object{
-    width: 45%;
-    display: inline-block;
-    height: 60px;
+.last_title{
+    text-align: left;
+    color: white;
 }
 
 h4{
+    margin-top: 20px;
     color: rgba(0, 0, 0, 0.418);
 }
 
 .interesse{
+    margin-top: 10px;
     background-image: url(/img/monitor.jpg);
     width: 300px;
     height: 200px;

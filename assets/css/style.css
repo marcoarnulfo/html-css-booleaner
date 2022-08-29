@@ -10,15 +10,13 @@
 .banner{
     background-color: lightskyblue;
     background-image: url(/img/pattern.png);
-    height: 150px;
-    position: relative;
+    background-size: contain;
 }
 
-.booleaner{
-    height: 50px;
-    position: absolute;
-    bottom: 10px;
-    left: 6px;
+.logo{
+    width: 80px;
+    margin-top: 80px;
+
 }
 
 h1{

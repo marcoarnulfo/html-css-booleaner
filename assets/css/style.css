@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.title_author{
+    margin: 5px;
+}
+
+.banner{
+    background-color: lightskyblue;
+    background-image: url(/img/pattern.png);
+    height: 150px;
+    position: relative;
+}
+
+.booleaner{
+    height: 50px;
+    position: absolute;
+    bottom: 10px;
+    left: 6px;
+}
+
+h1{
+    margin-top: 10px;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+.author{
+    color: blue;
+}
+
+.date{
+    font-size: 12px;
+}

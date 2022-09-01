@@ -9,7 +9,7 @@
 
 .banner{
     background-color: lightskyblue;
-    background-image: url(/img/pattern.png);
+    background-image: url('../img/pattern.png');
     background-size: contain;
 }
 
@@ -78,7 +78,7 @@ h4{
 
 .interesse{
     margin-top: 10px;
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     width: 300px;
     height: 200px;
     background-image: cover;
@@ -87,7 +87,7 @@ h4{
 }
 
 .interesse2{
-    background-image: url(/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     width: 300px;
     height: 200px;
     background-image: cover;
